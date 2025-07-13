@@ -40,7 +40,7 @@ const Hero = () => {
 
         <div className="font-orbitron flex flex-col sm:flex-row gap-4 ml-2">
           <a
-            href="/resume.pdf"
+            href="/Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-pink-500 hover:to-purple-500 px-6 py-2 rounded-full font-semibold shadow-lg hover:bg-pink-400 transition duration-300"
